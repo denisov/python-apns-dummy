@@ -19,8 +19,8 @@ Server will automatically load any resuts.csv file in the working dir.
 Usage
 --------------
 ```
-pip install gevent
-python server.py
+$ python2.7 server.py -r exampleresults.csv                                                                     
+Loaded exampleresults.csv file
 Starting server on 0.0.0.0:8081
 ```
 
